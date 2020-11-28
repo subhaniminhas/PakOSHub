@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=PakOS Value Added Software Install
+Exec=/usr/sbin/PakOSHub.sh InstallValueAddedSoftware
+Icon=/usr/share/icons/PakOS_Icons/Install2.png
+Comment=Install Value-Added Software for PakOS
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

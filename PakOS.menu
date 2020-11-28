@@ -1,0 +1,23 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>金山办公</Name>
+		<Directory>PakOS.directory</Directory>
+			<Include>
+				<Filename>Enable.desktop</Filename>
+				<Filename>PakOS-1st-Boot.desktop</Filename>
+				<Filename>PakOS Developer Tools.deskt</Filename>
+				<Filename>PakOS_EyeCandy.desktop</Filename>
+				<Filename>Chooe Fastest Update Mirror For PakOS.desktop</Filename>
+				<Filename>PakOS Hub.desktop</Filename>
+				<Filename>PakOS Links.desktop</Filename>
+				<Filename>PakOS Security.desktop</Filename>
+				<Filename>PakOS Services Manageement.desktop</Filename>	
+				<Filename>Install Value Added Software.desktop</Filename>	
+				<Filename>Remaster PakOS ISO.desktop</Filename>	
+				<Filename>UpatePakOS.desktop</Filename>	
+		</Include>
+	</Menu>
+</Menu>

@@ -1,0 +1,105 @@
+88ec75a45c8a1a40f5bda78ff83d171c  usr/sbin/PakOSHub.sh
+d18ec05bd3ee46121743baf694133477  usr/share/applications/PakOS_Launchers/Chooe Fastest Update Mirror For PakOS.desktop
+b3b8c2638d16fe10380691246c8d329b  usr/share/applications/PakOS_Launchers/Enable Internet in Pakistan for PakOS.desktop
+7b65dd9fdf9cdf9c067f6364efeadb5d  usr/share/applications/PakOS_Launchers/Install Value Added Software.desktop
+96647027210388c2fcd0498180842826  usr/share/applications/PakOS_Launchers/PakOS Developer Tools.desktop
+1010aa353022d5ab7a4cf274cd379b55  usr/share/applications/PakOS_Launchers/PakOS Hub.desktop
+fcdd5c4dedda813941aaf2e373ab5826  usr/share/applications/PakOS_Launchers/PakOS Links.desktop
+4c490b66b6ff50d14d17750c8e3353bc  usr/share/applications/PakOS_Launchers/PakOS Security.desktop
+a8cbbf2fcce33e82ba0656f79f05d7af  usr/share/applications/PakOS_Launchers/PakOS Services Manageement.desktop
+1aa0c7625acac59e8e37c353f220da5e  usr/share/applications/PakOS_Launchers/PakOS-1st-Boot.desktop
+b7f31342f2cc4882b7269b673734cac0  usr/share/applications/PakOS_Launchers/PakOS_EyeCandy.desktop
+153c743489b160f739934c14bc2bea5d  usr/share/applications/PakOS_Launchers/Remaster PakOS ISO.desktop
+ec194d48e55cb597fa9bf006d4c2cfc5  usr/share/applications/PakOS_Launchers/UpatePakOS.desktop
+d8cb0f5a73eb0ddc40447a33a271d46c  usr/share/doc/pakoshub/changelog.Debian.gz
+a0560531ecbd0105a3c26895007136dd  usr/share/doc/pakoshub/copyright
+79be6d8ee34054e00c1f31e72e37dbdf  usr/share/icons/PakOS_Icons/64Bit.png
+a97c89e9683724418b8cb2cff6b1bf5a  usr/share/icons/PakOS_Icons/Android.png
+fe5018b2081c3a02225b08d130d87619  usr/share/icons/PakOS_Icons/AntiVirus.png
+ddc123f392f38d336ded486a8d006c61  usr/share/icons/PakOS_Icons/AppOutletStore.png
+177d1733bebe668508798e9173a55c5a  usr/share/icons/PakOS_Icons/Apple.png
+730e7cd4820d7abb38c630735c83f32a  usr/share/icons/PakOS_Icons/Atom.png
+a1161081272971b38c3067b2bf89063f  usr/share/icons/PakOS_Icons/Avast.png
+766199b901e0d9fc5a7d61e3c80450ad  usr/share/icons/PakOS_Icons/BaenaEtcher.png
+ca0fb5312fb261b41b9270e9bf65da59  usr/share/icons/PakOS_Icons/BlueMoon.png
+024a27ca92428427ceb8f2f9ee1aa59a  usr/share/icons/PakOS_Icons/BrowserAddons.png
+a912d85f7136fc260f761fd57f0c7893  usr/share/icons/PakOS_Icons/Build.png
+702acdb3ef6d28c7b972f07b04641b3e  usr/share/icons/PakOS_Icons/Builder.png
+ccd169630c909d0a0006e6b4b59bd325  usr/share/icons/PakOS_Icons/ClamAV.png
+81aa3b629d42d207c4ce883a7feee3c7  usr/share/icons/PakOS_Icons/CookieAutoDelete.png
+9894d7847cf90ca824778f564cccfab8  usr/share/icons/PakOS_Icons/Crossover.png
+55d7f6111ad33251e5ff5012ff5ed59b  usr/share/icons/PakOS_Icons/Debian.png
+d04a8abfb8a6a71070c112658310ff36  usr/share/icons/PakOS_Icons/Disconnect.png
+df5458b6d14bf67ed1de0e995b4eea71  usr/share/icons/PakOS_Icons/Duckduckgo.png
+a7a06c53d0421554718d837409d6cc77  usr/share/icons/PakOS_Icons/FacebookContainer.png
+b718ccff9ca34305cfb5bc24dccd1f25  usr/share/icons/PakOS_Icons/FireJail.png
+8c7a605d00cee2f07f3ea9c1b99b18b8  usr/share/icons/PakOS_Icons/Firewall.png
+7d1f72114a1212f068648df3f54fd13d  usr/share/icons/PakOS_Icons/Franz.png
+90759f3d72ad20bcdf701a0269ba4e30  usr/share/icons/PakOS_Icons/Gaming.png
+77cc1d4bc78e00f19dbbd48c51680769  usr/share/icons/PakOS_Icons/Gnome.png
+9f2b44295954f9011dfa8ba8a229d264  usr/share/icons/PakOS_Icons/GoogleEarth.png
+13383f8fc42b8294e09e04803c29e766  usr/share/icons/PakOS_Icons/GreenMoon.png
+0ff18110d55f2d4f69ba5235c4078b2c  usr/share/icons/PakOS_Icons/Install.png
+1161a632fbbaa1ac5e00383a23e48a99  usr/share/icons/PakOS_Icons/Install2.png
+a24b6779ec0de777bf950ada4332c964  usr/share/icons/PakOS_Icons/Internet.png
+6ec1333e1b412eb3cfd2af2941ee2157  usr/share/icons/PakOS_Icons/Internet2.png
+23da0595a49647147ee542491182da55  usr/share/icons/PakOS_Icons/KDE.png
+d257a52492c880fbd82575f3ae172b8a  usr/share/icons/PakOS_Icons/LatestKernal.png
+c472107ae19b2d3b0de573c738cffdfe  usr/share/icons/PakOS_Icons/Lynis.png
+351397566e9f3e25692ab8904a3a143e  usr/share/icons/PakOS_Icons/MediaPlayer.png
+d79ae15a748ddab2c8a1180725abdf2a  usr/share/icons/PakOS_Icons/Mini.png
+84cd881c7e9f9e22b358ec27d139b585  usr/share/icons/PakOS_Icons/Moon-icon.png
+9f6bbe1c273ee1ce2d85882f6015b8a8  usr/share/icons/PakOS_Icons/NoScript.png
+6fa2653a8b657cace7f84a63b47ed1aa  usr/share/icons/PakOS_Icons/Nvidia.png
+a1ebde4cdcf193087bc40a80d352203c  usr/share/icons/PakOS_Icons/PakOS-svgrepo-com.png
+54c20e7db5ece0a043343a316b48fc63  usr/share/icons/PakOS_Icons/PakOS.png
+78ccaeb38e8e0de72db3e2861ede897a  usr/share/icons/PakOS_Icons/PakOS2.png
+e8448a4d11879d3402e29a469b5d4ed6  usr/share/icons/PakOS_Icons/PakOS5.png
+d1f0e28e0a78964c23a6d76476b996dd  usr/share/icons/PakOS_Icons/PakOS7.png
+21b345c805846ba9b6f402ca36b622d8  usr/share/icons/PakOS_Icons/PakOSlogo.png
+55c8bc90f8baa5c6053fc47f6f3a41fb  usr/share/icons/PakOS_Icons/PlayonLinux.png
+fb0dc0939a689c57352e0671112c9d3e  usr/share/icons/PakOS_Icons/Portss.png
+d85b7ead8361d910e01ff7362b3d4554  usr/share/icons/PakOS_Icons/PrivacyBadger.png
+37da05658d814638659820475d572a0a  usr/share/icons/PakOS_Icons/Rambox.png
+7f1bec3b6b0ebef654c82c7f9f627132  usr/share/icons/PakOS_Icons/Remaster.png
+32e4f8ac82ab0a5a28e6029ffe2c9efe  usr/share/icons/PakOS_Icons/Safari.png
+26c1909482b22378450aacdc3b3aa8d0  usr/share/icons/PakOS_Icons/Security.png
+d50679774183eca818d3c8a7cf4f7bc1  usr/share/icons/PakOS_Icons/Snapstore.png
+9adc43cd1040340df7381704fe17ca59  usr/share/icons/PakOS_Icons/Steam.png
+59219f93bc0df41879ee36d5dd9e4cb9  usr/share/icons/PakOS_Icons/TOR.png
+faef82734fc5a7662166261606360eab  usr/share/icons/PakOS_Icons/USB.png
+a90c1a1888297ddba05656e302baafe0  usr/share/icons/PakOS_Icons/USBGuard.png
+e43b7ae714e64babd8241afaeb8fd780  usr/share/icons/PakOS_Icons/Update.png
+d026130415523379b38ff161658154e6  usr/share/icons/PakOS_Icons/VirtulaBox.png
+d9d0f54f27061dbc71a8ec254a91396f  usr/share/icons/PakOS_Icons/WPS.png
+c9295c657019de69dd5d3d4f873866be  usr/share/icons/PakOS_Icons/ZuluCrypt.png
+40d11bf9a600ab4b84ce5f16bb8a643e  usr/share/icons/PakOS_Icons/chrome.png
+187186b5b1ce4ad9a89a358c1c4cf715  usr/share/icons/PakOS_Icons/conky.png
+836d9e60db12c896763751832622f52b  usr/share/icons/PakOS_Icons/crescent-moon(1).png
+43a706690f6d8e22882480b5027ad111  usr/share/icons/PakOS_Icons/crescent-moon-icon-14.png
+9fd3b8d8cb74a883429dd015e313c1ee  usr/share/icons/PakOS_Icons/crescent-moon.png
+6fca0eb6c59249805760b3c692012952  usr/share/icons/PakOS_Icons/dedication.png
+c9012d4b7508eb3c224d4b9eb55ec325  usr/share/icons/PakOS_Icons/dedication2.png
+19d632cdad5efe5b8c493930714ce3f1  usr/share/icons/PakOS_Icons/dedications.png
+4c640a89e7670b400e2f35f14e26397d  usr/share/icons/PakOS_Icons/design.png
+631bfc08ed3b348019a72926f71599cb  usr/share/icons/PakOS_Icons/developer tool.png
+aae2988aec6b87d381b0713a6c09026f  usr/share/icons/PakOS_Icons/fastUpdate.png
+a80ebf817645fe180b0563afd391267f  usr/share/icons/PakOS_Icons/firefox.png
+00a09f8fcf08fef80baba9880123a8ac  usr/share/icons/PakOS_Icons/fonts.png
+aaa935152adbbfc5ecd838abe18b7b7b  usr/share/icons/PakOS_Icons/fonts2.png
+f3ede149186467650a709d48477efc44  usr/share/icons/PakOS_Icons/fonts2.png.png
+a75c03057c15d64195711d93fa4b6aba  usr/share/icons/PakOS_Icons/full-moon-icon-hi.png
+0914d52a8396bea5db243b5fe5926d9c  usr/share/icons/PakOS_Icons/grub.png
+08f9e8935bc9d8c2db120ee64d1d7987  usr/share/icons/PakOS_Icons/iconSets.png
+26b4822784bf0b47954e3a0eca02e0cf  usr/share/icons/PakOS_Icons/lxqt.png
+e421317686117a3094dc1915deb20ccb  usr/share/icons/PakOS_Icons/opera.png
+3165e3d3434a9147b8678812f50f7888  usr/share/icons/PakOS_Icons/services.png
+7778389fc61563108aa1bbcfb248dfd2  usr/share/icons/PakOS_Icons/star-icon-transparent-background-11.png
+8eb0ec61d61d24a6fd259c4a35dcbd4b  usr/share/icons/PakOS_Icons/startupitems.png
+a71a9ff7d6f3fa72ef0d00489991ac5f  usr/share/icons/PakOS_Icons/themes.png
+57536bcbe3800e17b52c12685547e0f3  usr/share/icons/PakOS_Icons/themes2.png
+e6fd3637ca6b14d44ca5cd861c32698e  usr/share/icons/PakOS_Icons/uBlockOrigins.png
+8b6c00c94e5d706de59fde5e99514c07  usr/share/icons/PakOS_Icons/updated.png
+5020e05187e8460f4a4fe44c28612e49  usr/share/icons/PakOS_Icons/wallpapers.png
+8884e2e2e9bf3912580c115cbb603d17  usr/share/icons/PakOS_Icons/xfce.png
+d8093a84e036fb2236bff5df4aa74951  usr/share/icons/PakOS_Icons/zoom.png

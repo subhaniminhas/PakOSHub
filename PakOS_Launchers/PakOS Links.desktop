@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=PakOS Links
+Exec=/usr/sbin/PakOSHub.sh  5
+Icon=/usr/share/icons/PakOS_Icons/dedications.png
+Comment=PakOS Links, dedications, download, vote etc
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

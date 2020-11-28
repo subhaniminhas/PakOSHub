@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=PakOS 1st Boot
+Exec=/usr/sbin/PakOSHub.sh 1stBoot
+Icon=/usr/share/icons/PakOS_Icons/Build.png
+Comment=PakOS 1st Bot Options , Start Menu Entry Choices
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

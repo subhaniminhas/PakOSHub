@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=PakOS Services Management
+Exec=/usr/sbin/PakOSHub.sh ServicesManagement
+Icon=/usr/share/icons/PakOS_Icons/services.png
+Comment=PakOS Systemd Services Management
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

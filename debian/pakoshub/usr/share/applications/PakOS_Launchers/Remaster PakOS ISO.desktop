@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=Remaster PakOS ISO
+Exec=/usr/sbin/PakOSHub.sh remasterPakOSISO
+Icon=/usr/share/icons/PakOS_Icons/Remaster.png
+Comment=Remaster PakOS ISO
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

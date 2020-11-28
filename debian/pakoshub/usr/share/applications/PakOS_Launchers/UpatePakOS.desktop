@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=Update PakOS
+Exec=/usr/sbin/PakOSHub.sh 1
+Icon=/usr/share/icons/PakOS_Icons/updated.png
+Comment=Update PakOS to latest version including security updates, Internet Required :)
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

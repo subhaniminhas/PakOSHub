@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=2.5.2020
+Type=Application
+Terminal=true
+Name=PakOS Eye Candy
+Exec=/usr/sbin/PakOSHub.sh 3
+Icon=/usr/share/icons/PakOS_Icons/themes.png
+Comment=PakOS Eye Candy
+Path=
+StartupNotify=true
+Catagories=<Settings;Utility>

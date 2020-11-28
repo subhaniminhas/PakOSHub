@@ -1,0 +1,29 @@
+Source: pakoshub
+Section: Utilities
+Priority: optional
+Maintainer: GSM PakOS <gsm.pakos@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://sourceforge.net/projects/pakos/
+#Vcs-Browser: https://salsa.debian.org/debian/pakoshub
+#Vcs-Git: https://salsa.debian.org/debian/pakoshub.git
+
+Package: pakoshub
+Architecture: all
+Depends: ${misc:Depends}
+Description: Please see the Other Menu to Find all PakOS Icons. 
+ PakOS Hub is a set of utilities . Please see the Other Menu to Find all PakOS 
+ Icons which include following set of Icons / Utilities:
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
+ 8.
+ 9.
+ 10.
+ 11.
+ 12.
+ 

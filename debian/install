@@ -1,0 +1,4 @@
+PakOSHub.sh /usr/sbin
+/PakOS_Launchers/*.desktop /usr/share/applications/PakOS_Launchers
+/PakOS_Icons/*.png /usr/share/icons/PakOS_Icons
+

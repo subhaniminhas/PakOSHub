@@ -1,0 +1,18 @@
+# https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/
+sudo apt-get install dh-make devscripts
+$ cat >>~/.bashrc <<EOF
+DEBEMAIL="gsm.pakos@gmail.com"
+DEBFULLNAME="GSM PakOS"
+export DEBEMAIL DEBFULLNAME
+EOF
+$ . ~/.bashrc
+
+dh_make --indep --createorig
+
+touch debian/install
+nano debian/install
+PakOSHub.sh /usr/sbin
+/PakOS_Launchers/*.desktop /usr/share/applications/PakOS Launchers
+/PakOS_Icons/*.png /usr/share/icons/PakOS Icons
+
+debuild -us -uc
